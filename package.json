@@ -1,0 +1,9 @@
+{
+  "name": "nodechat",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.10.2",
+    "redis": "^0.12.1",
+    "socket.io": "^1.2.1"
+  }
+}
